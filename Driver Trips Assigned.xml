@@ -1,0 +1,13 @@
+<?xml version = "1.0"?>
+<trips>
+   <trip>
+      <type>External</type>
+      <source>Alexandria</source>
+      <destination>Cairo</destination>
+      <circle>Round</circle>
+      <stops>2</stops>
+      <vehicle>Bus</vehicle>
+      <seats>20</seats>
+      <ticket>160</ticket>
+   </trip>
+</trips>

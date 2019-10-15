@@ -1,0 +1,17 @@
+<?xml version = "1.0"?>
+<passengers>
+   <passenger>
+      <username>Omar</username>
+      <password>123</password>
+   </passenger>
+   
+  <passenger>
+      <username>Yosri</username>
+      <password>1234</password>
+   </passenger>
+
+  <passenger>
+      <username>Shehab</username>
+      <password>12345</password>
+   </passenger>
+</passengers>
