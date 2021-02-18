@@ -1,4 +1,4 @@
-#Bus_Station (JAVA) Solo project.
+#Bus_Station (JAVA),JavaFX, Solo project,Includes a UML design.
 A Bus Station simulation, Where you have three type of users
 1. Admin: Which can Create, Delete and Modify trips.
 2. Bus Driver: Which can only view the assigned trips for him.
