@@ -3,5 +3,7 @@
 
 
 ## Demo of the app:
-https://user-images.githubusercontent.com/48595913/162212745-44bd309a-8148-4d2c-bc76-dd0a678b4aaf.mp4
+https://user-images.githubusercontent.com/48595913/162228382-5a6f4e85-0289-46f5-9a87-ef90867101c8.mp4
+
+
 
